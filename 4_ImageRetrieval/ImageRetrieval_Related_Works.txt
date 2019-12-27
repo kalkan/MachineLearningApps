@@ -12,4 +12,7 @@ List of some recent studies related to Remote Sensing Image Retrieval:
   https://ieeexplore.ieee.org/document/8900605
 - Visual descriptors for content-based retrieval of remote sensing images
   https://arxiv.org/abs/1602.00970
-  
+- A remote-sensing image-retrieval model based on an ensemble neural networks
+  https://www.tandfonline.com/doi/full/10.1080/20964471.2019.1570815
+- Enhancing remote sensing image retrieval using a triplet deep metric learning network
+  https://www.tandfonline.com/doi/full/10.1080/2150704X.2019.1647368
