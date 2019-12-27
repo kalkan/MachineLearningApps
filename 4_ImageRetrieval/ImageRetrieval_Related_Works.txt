@@ -1,0 +1,15 @@
+List of some recent studies related to Remote Sensing Image Retrieval:
+
+- Exploiting Deep Features for Remote Sensing Image Retrieval:A Systematic Investigation
+  https://arxiv.org/pdf/1707.07321.pdf
+- A review on Recent Advances in Remote sensing image retrieval techniques
+  https://link.springer.com/article/10.1007/s12524-019-01049-8
+- Content-Based Image Retrieval Features: A Survey
+  https://www.ijana.in/papers/V10I1-12.pdf
+- Learning transfer using deep convolutional features for remote sensing image retrieval
+  http://www.iaeng.org/IJCS/issues_v46/issue_4/IJCS_46_4_14.pdf
+- Mental Retrieval of Large-Scale Satellite Images Via Learned Sketch-Image Deep Features
+  https://ieeexplore.ieee.org/document/8900605
+- Visual descriptors for content-based retrieval of remote sensing images
+  https://arxiv.org/abs/1602.00970
+  
