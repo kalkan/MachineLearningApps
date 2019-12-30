@@ -16,3 +16,7 @@ List of some recent studies related to Remote Sensing Image Retrieval:
   https://www.tandfonline.com/doi/full/10.1080/20964471.2019.1570815
 - Enhancing remote sensing image retrieval using a triplet deep metric learning network
   https://www.tandfonline.com/doi/full/10.1080/2150704X.2019.1647368
+
+- Fine-tuning CNN Image Retrieval with No Human Annotation
+- CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples
+  https://github.com/filipradenovic/cnnimageretrieval-pytorch
