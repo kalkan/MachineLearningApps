@@ -18,5 +18,8 @@ List of some recent studies related to Remote Sensing Image Retrieval:
   https://www.tandfonline.com/doi/full/10.1080/2150704X.2019.1647368
 
 - Fine-tuning CNN Image Retrieval with No Human Annotation
+  https://arxiv.org/pdf/1711.02512.pdf
 - CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples
+  https://arxiv.org/pdf/1604.02426.pdf
+
   https://github.com/filipradenovic/cnnimageretrieval-pytorch
