@@ -1,0 +1,6 @@
+- https://sites.google.com/view/zhouwx/dataset
+
+- http://weegee.vision.ucmerced.edu/datasets/landuse.html
+
+  Worldview-3 [3- and 16-bands images, 10 classes]
+- https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/data
