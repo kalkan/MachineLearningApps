@@ -29,13 +29,15 @@ https://github.com/vision-impulse/UrbanAI
 https://github.com/YudeWang/UNet-Satellite-Image-Segmentation
 https://github.com/mapbox/robosat
 
------Competitions and Blogs Related to LULC-----
+-----Competitions, Papers, and Blogs Related to LULC-----
 https://competitions.codalab.org/forums/15208/
 http://deepglobe.org/challenge.html
 https://deepsense.ai/deep-learning-for-satellite-imagery-via-image-segmentation/
 http://blog.kaggle.com/2017/04/26/dstl-satellite-imagery-competition-1st-place-winners-interview-kyle-lee/ 
 https://towardsdatascience.com/multi-label-land-cover-classification-with-deep-learning-d39ce2944a3d  
 https://medium.com/vooban-ai/satellite-image-segmentation-a-workflow-with-u-net-7ff992b2a56e?
+https://arxiv.org/pdf/1805.06561.pdf
+https://arxiv.org/pdf/1807.05713.pdf
 
 
 
