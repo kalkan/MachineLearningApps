@@ -1,29 +1,43 @@
 List of github, kaggle repositories and data sets related to Land-Use-Land-Cover project:
 
-http://lila.science/datasets/chesapeakelandcover 
-https://github.com/calebrob6/land-cover
-https://zhangbin0917.github.io/2018/06/12/%E9%81%A5%E6%84%9F%E6%95%B0%E6%8D%AE%E9%9B%86/
+---- Datasets related to LULC ----
+http://captain.whu.edu.cn/GID/
+http://lila.science/datasets/chesapeakelandcover
 http://weegee.vision.ucmerced.edu/datasets/landuse.html
-https://towardsdatascience.com/multi-label-land-cover-classification-with-deep-learning-d39ce2944a3d  
+https://zhangbin0917.github.io/2018/06/12/%E9%81%A5%E6%84%9F%E6%95%B0%E6%8D%AE%E9%9B%86/
+
+----Github Repositories Related to Satellite Image Segmentation Using Deep Learning----
+https://github.com/calebrob6/land-cover
 https://github.com/luyanger1799/Amazing-Semantic-Segmentation
-https://github.com/datasciencecampus/laika/blob/master/README.md
 https://github.com/mrgloom/awesome-semantic-segmentation
+https://github.com/ringochuchudull/CNN-Based-Hyperspectral-Image-Classification 
 https://github.com/robmarkcole/Useful-python/blob/master/Kaggle/dstl-satellite-imagery-feature-detection/dstl_data_explore.ipynb
 https://github.com/lopuhin/kaggle-dstl
-http://blog.kaggle.com/2017/04/26/dstl-satellite-imagery-competition-1st-place-winners-interview-kyle-lee/   
+https://github.com/mapbox/robosat
 https://github.com/DeepVoltaire/Dstl-Satellite-Imagery-Feature-Detection
 https://github.com/ternaus/TernausNetV2
 https://github.com/ternaus/kaggle_dstl_submission
 https://github.com/dinrker/Kaggle-DSTL/blob/master/pixel-XGBoost.ipynb
 https://github.com/u1234x1234/kaggle-dstl-satellite-imagery-feature-detection
 https://github.com/rogerxujiang/dstl_unet
-https://github.com/sentinel-hub/eo-learn 
+https://github.com/sentinel-hub/eo-learn
 https://github.com/sentinel-hub/eo-learn/blob/master/examples/land-cover-map/SI_LULC_pipeline.ipynb
-https://github.com/ringochuchudull/CNN-Based-Hyperspectral-Image-Classification 
-https://deepsense.ai/deep-learning-for-satellite-imagery-via-image-segmentation/
-https://medium.com/vooban-ai/satellite-image-segmentation-a-workflow-with-u-net-7ff992b2a56e?
-https://github.com/mapbox/robosat
 https://github.com/anikett12/satellite-image-segmentation/blob/master/preprocessing%20and%20dataset%20creation.ipynb
-http://deepglobe.org/challenge.html
-http://captain.whu.edu.cn/GID/
+https://github.com/datasciencecampus/laika
+https://github.com/robmarkcole/satellite-image-deep-learning
+https://github.com/vision-impulse/UrbanAI
+https://github.com/YudeWang/UNet-Satellite-Image-Segmentation
+https://github.com/mapbox/robosat
+
+-----Competitions and Blogs Related to LULC-----
 https://competitions.codalab.org/forums/15208/
+http://deepglobe.org/challenge.html
+https://deepsense.ai/deep-learning-for-satellite-imagery-via-image-segmentation/
+http://blog.kaggle.com/2017/04/26/dstl-satellite-imagery-competition-1st-place-winners-interview-kyle-lee/ 
+https://towardsdatascience.com/multi-label-land-cover-classification-with-deep-learning-d39ce2944a3d  
+https://medium.com/vooban-ai/satellite-image-segmentation-a-workflow-with-u-net-7ff992b2a56e?
+
+
+
+
+
