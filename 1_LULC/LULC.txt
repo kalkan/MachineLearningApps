@@ -28,6 +28,7 @@ https://github.com/robmarkcole/satellite-image-deep-learning
 https://github.com/vision-impulse/UrbanAI
 https://github.com/YudeWang/UNet-Satellite-Image-Segmentation
 https://github.com/mapbox/robosat
+https://github.com/tropicalmentat/land-cover-to-land-use-classification
 
 -----Competitions, Papers, and Blogs Related to LULC-----
 https://competitions.codalab.org/forums/15208/
