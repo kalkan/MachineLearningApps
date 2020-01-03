@@ -5,6 +5,7 @@ http://captain.whu.edu.cn/GID/
 http://lila.science/datasets/chesapeakelandcover
 http://weegee.vision.ucmerced.edu/datasets/landuse.html
 https://zhangbin0917.github.io/2018/06/12/%E9%81%A5%E6%84%9F%E6%95%B0%E6%8D%AE%E9%9B%86/
+http://madm.dfki.de/downloads
 
 ----Github Repositories Related to Satellite Image Segmentation Using Deep Learning----
 https://github.com/calebrob6/land-cover
