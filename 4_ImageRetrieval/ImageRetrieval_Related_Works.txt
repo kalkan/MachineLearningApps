@@ -24,3 +24,4 @@ List of some recent studies related to Remote Sensing Image Retrieval:
 
   https://github.com/filipradenovic/cnnimageretrieval-pytorch
   https://github.com/willard-yuan/awesome-cbir-papers
+  https://github.com/willard-yuan/CNN-for-Image-Retrieval
