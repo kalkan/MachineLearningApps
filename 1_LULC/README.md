@@ -10,5 +10,6 @@ Using GID public dataset, we can summerize the following points:
 5- For each 5 categories, 10000 samples are selected for each scale. Thus, a total of 10000x3x5=150000 patches are collected.
 6- Then these patches are uniformly resized to 224x224 to pre-train ResNet-50 model.
 7- The parameteres of ResNet-50 initialized with ImageNet. While, the softmax layer is initialized by Gaussian distribution.
+8- In the process of classification, they cut the testing imageries into square patches with the same size as the training samples, and then acquire their category distribution probability from re-trained ResNet-50's softmax layer.
 
 
